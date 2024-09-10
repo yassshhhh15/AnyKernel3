@@ -15,7 +15,7 @@ device.name2=RE54E4L1
 device.name3=spartan
 device.name4=
 device.name5=
-supported.versions=13-14
+supported.versions=
 supported.patchlevels=
 '; } # end properties
 
