@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=K E Q I N G kernel
+kernel.string=KEQING-OOS by yassshhhh15
 do.devicecheck=1
 do.modules=0
 do.systemless=1
